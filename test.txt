@@ -1,6 +1,4 @@
 One
 Two
-Three
-four
-five
-sixx
+Ready?
+Go!
